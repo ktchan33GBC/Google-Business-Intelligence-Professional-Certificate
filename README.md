@@ -9,9 +9,9 @@
 
 
 ## Specialization Curriculum
-+ ### [Course_1_Foundations_of_Business_Intelligence](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_1_Guided_Tour_of_Machine_Learning_in_Finance)
-+ ### [Course_2_The_Path_to_Insights_Data_Models_and_Pipelines](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
-+ ### [Course_3_Decisions_Decisions_Dashboards_and_Reports](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
++ ### [Course_1_Foundations_of_Business_Intelligence](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_1_Foundations_of_Business_Intelligence)
++ ### [Course_2_The_Path_to_Insights_Data_Models_and_Pipelines](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_2_The_Path_to_Insights_Data_Models_and_Pipelines)
++ ### [Course_3_Decisions_Decisions_Dashboards_and_Reports](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_3_Decisions_Decisions_Dashboards_and_Reports)
 
 
 
