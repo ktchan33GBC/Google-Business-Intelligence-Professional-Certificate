@@ -19,7 +19,7 @@
 ## Explore More
 Certificate link: https://www.coursera.org/account/accomplishments/professional-cert/JM8P6EWT8QZP
 
-![Certificate](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/img/Specialization_Certificate_Coursera_Google%20Advanced%20Data%20Analytics.jpg)
+![Certificate](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/blob/main/img/Specialization_Certificate_Coursera_Google_Business_Intelligence_Professional_Certificate.jpg)
 
 <!-- USAGE EXAMPLES -->
 
