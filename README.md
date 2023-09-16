@@ -30,8 +30,8 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 ## Important Project
 
 
-### Providing data-driven suggestions for HR of Salifort Motors to deal with high employee retention rate
-[Notebook](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/Captstone_Proj_Salifort_Motors_employee_retention.ipynb)
+### Google Business Intelligence Certificate Google Fiber
+[Notebook](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 + Assisted Salifort Motors in predicting employee attrition and identifying departure reasons using predictive models, including regression, Decision Tree, and Random Forest models.
