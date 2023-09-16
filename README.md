@@ -2,9 +2,13 @@
  
 ## About this Specialization:
 
-+ Specialization provided by New York University , Available on Coursera platform.
++ Specialization provided by Google , Available on Coursera platform.
 
-+ Focus: Explain how Reinforcement Learning is used for stock trading, and become familiar with popular approaches to modeling market frictions and feedback effects for option trading.  
++ Focus:
+ + Implement data modeling and extract, transform, load (ETL) processes that meet organizational goals 
+ + Design data visualizations that answer business questions
+ + Create dashboards that effectively communicate data insights to stakeholders
+
 
 
 
