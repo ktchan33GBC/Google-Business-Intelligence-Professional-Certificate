@@ -38,10 +38,10 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 
 [Tableau Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-o	Project Goal: Reduce customer call volume, enhance satisfaction, and optimize operations.
-o	Created project planning documents (Strategy Document, Project Requirements Document, Stakeholder Requirements Document) for effective stakeholder communication.
-o	Used SQL code in Dataflow or BigQuery to observe stakeholder data interactions and finalize the dashboard's reporting table.
-o	Designed a Tableau-based BI visualization to address Google Fiber's customer service team's questions.
++ Project Goal: Reduce customer call volume, enhance satisfaction, and optimize operations.
++ Created project planning documents (Strategy Document, Project Requirements Document, Stakeholder Requirements Document) for effective stakeholder communication.
++ Used SQL code in Dataflow or BigQuery to observe stakeholder data interactions and finalize the dashboard's reporting table.
++ Designed a Tableau-based BI visualization to address Google Fiber's customer service team's questions.
 
 
 ![Result](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/blob/main/img/result_google_fiber_tableau.png)
@@ -59,10 +59,10 @@ o	Designed a Tableau-based BI visualization to address Google Fiber's customer s
 
 
 
-o	Project Goal: Grow Cyclistic’s Customer Base.
-o	Prepared essential project planning documents (Strategy, Project Requirements, Stakeholder Requirements) to facilitate effective communication with stakeholders.
-o	Utilized SQL code in Dataflow or BigQuery to observe stakeholder interactions with data, culminating in the creation of a dashboard-ready reporting table.
-o	Designed a Tableau-based Business Intelligence (BI) visualization to address inquiries from the Cyclistic product development team.
++ Project Goal: Grow Cyclistic’s Customer Base.
++ Prepared essential project planning documents (Strategy, Project Requirements, Stakeholder Requirements) to facilitate effective communication with stakeholders.
++ Utilized SQL code in Dataflow or BigQuery to observe stakeholder interactions with data, culminating in the creation of a dashboard-ready reporting table.
++ Designed a Tableau-based Business Intelligence (BI) visualization to address inquiries from the Cyclistic product development team.
 
 
 ![Result](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/blob/main/img/result_google_fiber_tableau.png)
