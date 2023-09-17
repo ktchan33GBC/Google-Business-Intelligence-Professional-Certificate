@@ -34,7 +34,7 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 
 [project planning documents](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-[ETL process](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
+[ETL process](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_2_The_Path_to_Insights_Data_Models_and_Pipelines)
 
 [Tableau Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
 
