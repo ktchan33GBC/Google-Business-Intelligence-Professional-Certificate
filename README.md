@@ -55,7 +55,7 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 
 [SQL](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_2_The_Path_to_Insights_Data_Models_and_Pipelines/Proj_Cyclistic_Part2)
 
-[Tableau Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateCyclistic_16949890287260/CyclisticExemplar?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
