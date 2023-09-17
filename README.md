@@ -44,4 +44,4 @@ o	Used SQL code in Dataflow or BigQuery to observe stakeholder data interactions
 o	Designed a Tableau-based BI visualization to address Google Fiber's customer service team's questions.
 
 
-![Result](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/result_Backtest_Improving_EW_with_CapWeight_Tethering.png)
+![Result](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/blob/main/img/result_google_fiber_tableau.png)
