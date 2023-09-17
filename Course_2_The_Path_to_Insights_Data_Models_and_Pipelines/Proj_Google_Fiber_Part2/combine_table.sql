@@ -10,7 +10,7 @@ SELECT
   contacts_n_7,
   new_type,
   new_market
-FROM `your project.fiber.market_1`
+FROM `google_fiber.market_1`
 UNION ALL
 SELECT
   date_created,
@@ -24,7 +24,7 @@ SELECT
   contacts_n_7,
   new_type,
   new_market
-FROM `your project.fiber.market_2`
+FROM `google_fiber.market_2`
 UNION ALL
 SELECT
   date_created,
@@ -38,4 +38,4 @@ SELECT
   contacts_n_7,
   new_type,
   new_market
-FROM `your project.market_3`
+FROM `google_fiber.market_3`
