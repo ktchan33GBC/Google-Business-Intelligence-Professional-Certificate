@@ -32,9 +32,9 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 
 ### Google Fiber Repeat Call Analysis and Customer Experience Enhancement Project
 
-[project planning documents](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
+[project planning documents](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_1_Foundations_of_Business_Intelligence/Proj_Google_Fiber_Part1)
 
-[ETL process](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_2_The_Path_to_Insights_Data_Models_and_Pipelines)
+[ETL process](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_2_The_Path_to_Insights_Data_Models_and_Pipelines/Proj_Google_Fiber_Part2)
 
 [Tableau Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
 
