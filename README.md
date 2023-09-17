@@ -45,3 +45,24 @@ o	Designed a Tableau-based BI visualization to address Google Fiber's customer s
 
 
 ![Result](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/blob/main/img/result_google_fiber_tableau.png)
+
+
+
+
+### Utilizing Customer Usage Insights for Informed New Station Expansion
+
+[project planning documents](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_1_Foundations_of_Business_Intelligence/Proj_Google_Fiber_Part1)
+
+[SQL](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_2_The_Path_to_Insights_Data_Models_and_Pipelines/Proj_Google_Fiber_Part2)
+
+[Tableau Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+
+o	Project Goal: Grow Cyclistic’s Customer Base.
+o	Prepared essential project planning documents (Strategy, Project Requirements, Stakeholder Requirements) to facilitate effective communication with stakeholders.
+o	Utilized SQL code in Dataflow or BigQuery to observe stakeholder interactions with data, culminating in the creation of a dashboard-ready reporting table.
+o	Designed a Tableau-based Business Intelligence (BI) visualization to address inquiries from the Cyclistic product development team.
+
+
+![Result](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/blob/main/img/result_google_fiber_tableau.png)
