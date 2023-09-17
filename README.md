@@ -65,4 +65,4 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 + Designed a Tableau-based Business Intelligence (BI) visualization to address inquiries from the Cyclistic product development team.
 
 
-![Result](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/blob/main/img/result_google_fiber_tableau.png)
+![Result](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/blob/main/img/result_cyclistic_tableau.png)
