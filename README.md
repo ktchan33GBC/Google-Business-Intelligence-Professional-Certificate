@@ -30,12 +30,18 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 ## Important Project
 
 
-### Google Business Intelligence Certificate Google Fiber
-[Notebook](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
+### Google Fiber Repeat Call Analysis and Customer Experience Enhancement Project
+
+[project planning documents](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[ETL process](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Tableau Dashboard](https://public.tableau.com/views/GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000/RepeatCalls?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+o	Project Goal: Reduce customer call volume, enhance satisfaction, and optimize operations.
+o	Created project planning documents (Strategy Document, Project Requirements Document, Stakeholder Requirements Document) for effective stakeholder communication.
+o	Used SQL code in Dataflow or BigQuery to observe stakeholder data interactions and finalize the dashboard's reporting table.
+o	Designed a Tableau-based BI visualization to address Google Fiber's customer service team's questions.
 
 
-+ Assisted Salifort Motors in predicting employee attrition and identifying departure reasons using predictive models, including regression, Decision Tree, and Random Forest models.
-+ Conducted a comparison of feature importance between the Random Forest and Decision Tree models for employee attrition analysis.
-+ Presented concise one-page project insights to external stakeholders as the data professional at Salifort Motors.
-
-<div class='tableauPlaceholder' id='viz1694900853205' style='position: relative'><noscript><a href='#'><img alt='Repeat Calls ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000&#47;RepeatCalls&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000&#47;RepeatCalls?:language=en-US&amp;:embed=true' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GoogleBusinessIntelligenceCertificateGoogleFiber_16949002141000&#47;RepeatCalls&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1694900853205');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='1016px';vizElement.style.height='991px';var scriptElement = document.createElement('script');        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+![Result](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/result_Backtest_Improving_EW_with_CapWeight_Tethering.png)
