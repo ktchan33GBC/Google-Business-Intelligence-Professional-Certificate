@@ -32,7 +32,7 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 
 ### Google Fiber Repeat Call Analysis and Customer Experience Enhancement Project
 
-[project planning documents](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_1_Foundations_of_Business_Intelligence/Proj_Google_Fiber_Part1)
+[Project planning documents](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_1_Foundations_of_Business_Intelligence/Proj_Google_Fiber_Part1)
 
 [SQL](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_2_The_Path_to_Insights_Data_Models_and_Pipelines/Proj_Google_Fiber_Part2)
 
@@ -51,7 +51,7 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 
 ### Utilizing Customer Usage Insights for Informed New Station Expansion
 
-[project planning documents](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_1_Foundations_of_Business_Intelligence/Proj_Cyclistic_Part1)
+[Project planning documents](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_1_Foundations_of_Business_Intelligence/Proj_Cyclistic_Part1)
 
 [SQL](https://github.com/ktchan33GBC/Google-Business-Intelligence-Professional-Certificate/tree/main/Course_2_The_Path_to_Insights_Data_Models_and_Pipelines/Proj_Cyclistic_Part2)
 
